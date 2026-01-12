@@ -4,6 +4,7 @@ using System.Web.Services;
 using Seveclie.Application.Services;
 using Seveclie.Infrastructure.Repositories;
 using System.Web.Security;
+using Microsoft.Reporting.WebForms;
 
 namespace Seveclie.Web
 {
@@ -115,6 +116,5 @@ namespace Seveclie.Web
         {
             FormsAuthentication.SignOut();
         }
-
     }
 }

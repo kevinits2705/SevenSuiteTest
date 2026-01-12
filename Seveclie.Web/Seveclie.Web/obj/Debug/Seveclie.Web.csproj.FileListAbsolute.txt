@@ -1,27 +1,31 @@
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\obj\Debug\Seveclie.Web.csprojResolveAssemblyReference.cache
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Seveclie.Web.dll.config
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Seveclie.Web.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Seveclie.Web.pdb
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Antlr3.Runtime.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\AspNet.ScriptManager.bootstrap.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\AspNet.ScriptManager.jQuery.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Microsoft.ScriptManager.MSAjax.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Microsoft.ScriptManager.WebForms.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Seveclie.Application.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Seveclie.Domain.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Seveclie.Infrastructure.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\System.Web.Optimization.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\WebGrease.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Seveclie.Application.pdb
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Seveclie.Domain.pdb
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Seveclie.Infrastructure.pdb
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\System.Web.Optimization.xml
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Antlr3.Runtime.pdb
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\obj\Debug\Seveclie.Web.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\obj\Debug\Seveclie.Web.pdb
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\es\System.Web.Optimization.resources.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
-C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Seveclie.Web.dll.config
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Seveclie.Web.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Seveclie.Web.pdb
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Antlr3.Runtime.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\AspNet.ScriptManager.bootstrap.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\AspNet.ScriptManager.jQuery.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Microsoft.ReportViewer.Common.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Microsoft.ReportViewer.DataVisualization.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Microsoft.ReportViewer.WebForms.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Microsoft.ScriptManager.WebForms.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Seveclie.Application.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Seveclie.Domain.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Seveclie.Infrastructure.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\System.Web.Optimization.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\WebGrease.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Seveclie.Application.pdb
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Seveclie.Domain.pdb
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Seveclie.Infrastructure.pdb
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\System.Web.Optimization.xml
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Antlr3.Runtime.pdb
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\es\System.Web.Optimization.resources.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\obj\Debug\Seveclie.Web.csprojResolveAssemblyReference.cache
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\obj\Debug\Seveclie.Web.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Web\obj\Debug\Seveclie.Web.pdb

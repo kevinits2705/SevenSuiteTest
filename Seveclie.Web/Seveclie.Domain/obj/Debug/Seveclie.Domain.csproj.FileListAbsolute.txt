@@ -3,3 +3,8 @@ C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\
 C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Domain\obj\Debug\Seveclie.Domain.dll
 C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Domain\obj\Debug\Seveclie.Domain.pdb
 C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Domain\bin\Debug\Seveclie.Domain.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Domain\bin\Debug\Seveclie.Domain.pdb
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Domain\obj\Debug\Seveclie.Domain.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Domain\obj\Debug\Seveclie.Domain.pdb

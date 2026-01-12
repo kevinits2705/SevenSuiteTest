@@ -6,3 +6,11 @@ C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\
 C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Application\obj\Debug\Seveclie.Application.dll
 C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Application\obj\Debug\Seveclie.Application.pdb
 C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Application\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Application\bin\Debug\Seveclie.Application.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Application\bin\Debug\Seveclie.Application.pdb
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Application\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Application\bin\Debug\Seveclie.Domain.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Application\bin\Debug\Seveclie.Domain.pdb
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Application\obj\Debug\Seveclie.Application.csprojResolveAssemblyReference.cache
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Application\obj\Debug\Seveclie.Application.dll
+F:\SevenSuite\SevenSuiteTest\Seveclie.Web\Seveclie.Application\obj\Debug\Seveclie.Application.pdb

@@ -34,6 +34,9 @@
         <div class="card-body">
 
             <input type="hidden" id="hdnIdCliente" />
+            <a href="ClienteReport.aspx" class="btn btn-info" target="_blank">
+                Ver Reporte
+            </a>
 
             <div class="row">
                 <div class="col-md-3">
