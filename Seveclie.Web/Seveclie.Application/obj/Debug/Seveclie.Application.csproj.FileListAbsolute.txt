@@ -1,0 +1,8 @@
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Application\bin\Debug\Seveclie.Application.dll
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Application\bin\Debug\Seveclie.Application.pdb
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Application\bin\Debug\Seveclie.Domain.dll
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Application\bin\Debug\Seveclie.Domain.pdb
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Application\obj\Debug\Seveclie.Application.csprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Application\obj\Debug\Seveclie.Application.dll
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Application\obj\Debug\Seveclie.Application.pdb
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\test\Seveclie.Web\Seveclie.Application\bin\Debug\Microsoft.Web.Infrastructure.dll
